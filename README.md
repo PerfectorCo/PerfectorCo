@@ -4,7 +4,7 @@
 * 💻 I'm a Shopify expert 
 * 🌐 You can see more of my profile on  <a href="https://www.upwork.com/freelancers/perfector"  target="__blank" rel="noopener noreferrer">[here](https://www.upwork.com/freelancers/perfector)</a>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 <p align="center">
 	<a href="mailto:sown.nguyen006@gmail.com" target="__blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/PerfectorCo" target="__blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
